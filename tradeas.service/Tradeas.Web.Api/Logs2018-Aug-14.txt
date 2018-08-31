@@ -1,0 +1,405 @@
+[2018-08-14 19:17:31,167][5][INFO ][(null)] - initiating extraction 
+[2018-08-14 19:17:31,300][5][INFO ][(null)] - retrieving import history for date: 2018-08-14 
+[2018-08-14 19:17:31,680][5][INFO ][(null)] - import history retrieved: Id: 2018-08-14, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/14/2018 19:17:31 
+[2018-08-14 19:17:32,212][5][INFO ][(null)] - deleting import tracker data: Symbol: 2GO, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,293][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,293][5][INFO ][(null)] - deleting import tracker data: Symbol: AAA, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: None 
+[2018-08-14 19:17:32,333][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,333][5][INFO ][(null)] - deleting import tracker data: Symbol: AB, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,401][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,402][5][INFO ][(null)] - deleting import tracker data: Symbol: ABA, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,453][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,454][5][INFO ][(null)] - deleting import tracker data: Symbol: ABC, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: None 
+[2018-08-14 19:17:32,557][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,557][5][INFO ][(null)] - deleting import tracker data: Symbol: ABG, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,600][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,601][5][INFO ][(null)] - deleting import tracker data: Symbol: ABS, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,651][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,652][5][INFO ][(null)] - deleting import tracker data: Symbol: ABSP, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,700][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,700][5][INFO ][(null)] - deleting import tracker data: Symbol: AC, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,752][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,752][5][INFO ][(null)] - deleting import tracker data: Symbol: ACE, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: Success 
+[2018-08-14 19:17:32,825][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:32,825][5][INFO ][(null)] - deleting import tracker data: Symbol: ACPA, CreatedBy: , CreatedDate: 08/14/2018 19:17:32, Status: None 
+[2018-08-14 19:17:32,904][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,570][5][INFO ][(null)] - deleting import tracker data: Symbol: ACPB, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: None 
+[2018-08-14 19:17:33,615][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,616][5][INFO ][(null)] - deleting import tracker data: Symbol: ACR, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: Success 
+[2018-08-14 19:17:33,762][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,763][5][INFO ][(null)] - deleting import tracker data: Symbol: AEV, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: Success 
+[2018-08-14 19:17:33,812][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,813][5][INFO ][(null)] - deleting import tracker data: Symbol: AGF, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: None 
+[2018-08-14 19:17:33,854][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,855][5][INFO ][(null)] - deleting import tracker data: Symbol: AGI, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: Success 
+[2018-08-14 19:17:33,907][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,907][5][INFO ][(null)] - deleting import tracker data: Symbol: ALCO, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: Success 
+[2018-08-14 19:17:33,965][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:33,966][5][INFO ][(null)] - deleting import tracker data: Symbol: ALHI, CreatedBy: , CreatedDate: 08/14/2018 19:17:33, Status: Success 
+[2018-08-14 19:17:34,057][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,057][5][INFO ][(null)] - deleting import tracker data: Symbol: ALI, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,105][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,105][5][INFO ][(null)] - deleting import tracker data: Symbol: ALPHA, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: None 
+[2018-08-14 19:17:34,155][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,155][5][INFO ][(null)] - deleting import tracker data: Symbol: ANI, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,210][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,210][5][INFO ][(null)] - deleting import tracker data: Symbol: ANS, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,281][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,282][5][INFO ][(null)] - deleting import tracker data: Symbol: AP, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,339][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,340][5][INFO ][(null)] - deleting import tracker data: Symbol: APC, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,388][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,389][5][INFO ][(null)] - deleting import tracker data: Symbol: APO, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,435][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,435][5][INFO ][(null)] - deleting import tracker data: Symbol: APX, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,472][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,472][5][INFO ][(null)] - deleting import tracker data: Symbol: AR, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,566][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,566][5][INFO ][(null)] - deleting import tracker data: Symbol: ARA, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,617][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,617][5][INFO ][(null)] - deleting import tracker data: Symbol: ASIA, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: None 
+[2018-08-14 19:17:34,664][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,665][5][INFO ][(null)] - deleting import tracker data: Symbol: AT, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,722][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,722][5][INFO ][(null)] - deleting import tracker data: Symbol: ATI, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,777][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,778][5][INFO ][(null)] - deleting import tracker data: Symbol: ATN, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,827][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,828][5][INFO ][(null)] - deleting import tracker data: Symbol: ATNB, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,864][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,865][5][INFO ][(null)] - deleting import tracker data: Symbol: AUB, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:34,917][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,918][5][INFO ][(null)] - deleting import tracker data: Symbol: BC, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: None 
+[2018-08-14 19:17:34,976][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:34,977][5][INFO ][(null)] - deleting import tracker data: Symbol: BCB, CreatedBy: , CreatedDate: 08/14/2018 19:17:34, Status: Success 
+[2018-08-14 19:17:35,059][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,059][5][INFO ][(null)] - deleting import tracker data: Symbol: BCOR, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,118][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,118][5][INFO ][(null)] - deleting import tracker data: Symbol: BCP, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: None 
+[2018-08-14 19:17:35,160][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,161][5][INFO ][(null)] - deleting import tracker data: Symbol: BDO, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,225][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,225][5][INFO ][(null)] - deleting import tracker data: Symbol: BEL, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,269][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,270][5][INFO ][(null)] - deleting import tracker data: Symbol: BH, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: None 
+[2018-08-14 19:17:35,322][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,322][5][INFO ][(null)] - deleting import tracker data: Symbol: BHI, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,363][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,363][5][INFO ][(null)] - deleting import tracker data: Symbol: BKD, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: None 
+[2018-08-14 19:17:35,414][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,415][5][INFO ][(null)] - deleting import tracker data: Symbol: BLFI, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,464][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,464][5][INFO ][(null)] - deleting import tracker data: Symbol: BLOOM, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,566][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,566][5][INFO ][(null)] - deleting import tracker data: Symbol: BMM, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: None 
+[2018-08-14 19:17:35,615][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,616][5][INFO ][(null)] - deleting import tracker data: Symbol: BPI, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,663][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,663][5][INFO ][(null)] - deleting import tracker data: Symbol: BRN, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,719][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,720][5][INFO ][(null)] - deleting import tracker data: Symbol: BSC, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,763][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,764][5][INFO ][(null)] - deleting import tracker data: Symbol: CA, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,809][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,809][5][INFO ][(null)] - deleting import tracker data: Symbol: CAB, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: None 
+[2018-08-14 19:17:35,861][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,861][5][INFO ][(null)] - deleting import tracker data: Symbol: CAL, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: None 
+[2018-08-14 19:17:35,911][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,911][5][INFO ][(null)] - deleting import tracker data: Symbol: CAT, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:35,965][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:35,965][5][INFO ][(null)] - deleting import tracker data: Symbol: CDC, CreatedBy: , CreatedDate: 08/14/2018 19:17:35, Status: Success 
+[2018-08-14 19:17:36,059][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,059][5][INFO ][(null)] - deleting import tracker data: Symbol: CEB, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,109][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,110][5][INFO ][(null)] - deleting import tracker data: Symbol: CEI, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,160][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,160][5][INFO ][(null)] - deleting import tracker data: Symbol: CEU, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,206][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,207][5][INFO ][(null)] - deleting import tracker data: Symbol: CHI, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,262][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,263][5][INFO ][(null)] - deleting import tracker data: Symbol: FGEN, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,315][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,316][5][INFO ][(null)] - deleting import tracker data: Symbol: FGENF, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,359][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,360][5][INFO ][(null)] - deleting import tracker data: Symbol: FGENG, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,411][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,412][5][INFO ][(null)] - deleting import tracker data: Symbol: FJP, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,456][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,456][5][INFO ][(null)] - deleting import tracker data: Symbol: FJPB, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,560][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,560][5][INFO ][(null)] - deleting import tracker data: Symbol: FLI, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,614][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,615][5][INFO ][(null)] - deleting import tracker data: Symbol: FMETF, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,658][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,658][5][INFO ][(null)] - deleting import tracker data: Symbol: FNI, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,710][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,710][5][INFO ][(null)] - deleting import tracker data: Symbol: FOOD, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,761][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,762][5][INFO ][(null)] - deleting import tracker data: Symbol: FPH, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: Success 
+[2018-08-14 19:17:36,808][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,808][5][INFO ][(null)] - deleting import tracker data: Symbol: FPHP, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,857][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,857][5][INFO ][(null)] - deleting import tracker data: Symbol: FPI, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,904][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,904][5][INFO ][(null)] - deleting import tracker data: Symbol: FYN, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:36,960][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:36,960][5][INFO ][(null)] - deleting import tracker data: Symbol: FYNB, CreatedBy: , CreatedDate: 08/14/2018 19:17:36, Status: None 
+[2018-08-14 19:17:37,054][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,054][5][INFO ][(null)] - deleting import tracker data: Symbol: GEO, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,103][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,104][5][INFO ][(null)] - deleting import tracker data: Symbol: GERI, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,154][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,155][5][INFO ][(null)] - deleting import tracker data: Symbol: GLO, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,208][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,209][5][INFO ][(null)] - deleting import tracker data: Symbol: GLOPA, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: None 
+[2018-08-14 19:17:37,261][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,261][5][INFO ][(null)] - deleting import tracker data: Symbol: GMA7, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,301][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,302][5][INFO ][(null)] - deleting import tracker data: Symbol: GMAP, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,355][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,355][5][INFO ][(null)] - deleting import tracker data: Symbol: GO, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: None 
+[2018-08-14 19:17:37,405][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,405][5][INFO ][(null)] - deleting import tracker data: Symbol: GOB, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: None 
+[2018-08-14 19:17:37,454][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,454][5][INFO ][(null)] - deleting import tracker data: Symbol: GPH, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: None 
+[2018-08-14 19:17:37,506][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,506][5][INFO ][(null)] - deleting import tracker data: Symbol: GREEN, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: None 
+[2018-08-14 19:17:37,562][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,562][5][INFO ][(null)] - deleting import tracker data: Symbol: GSMI, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,615][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,616][5][INFO ][(null)] - deleting import tracker data: Symbol: GTCAP, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,672][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,673][5][INFO ][(null)] - deleting import tracker data: Symbol: H2O, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,716][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,717][5][INFO ][(null)] - deleting import tracker data: Symbol: HI, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,762][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,762][5][INFO ][(null)] - deleting import tracker data: Symbol: HLCM, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,816][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,816][5][INFO ][(null)] - deleting import tracker data: Symbol: HOUSE, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,866][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,867][5][INFO ][(null)] - deleting import tracker data: Symbol: I, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,919][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,920][5][INFO ][(null)] - deleting import tracker data: Symbol: ICT, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:37,972][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:37,973][5][INFO ][(null)] - deleting import tracker data: Symbol: IDC, CreatedBy: , CreatedDate: 08/14/2018 19:17:37, Status: Success 
+[2018-08-14 19:17:38,057][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,057][5][INFO ][(null)] - deleting import tracker data: Symbol: IMI, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,107][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,108][5][INFO ][(null)] - deleting import tracker data: Symbol: IMP, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,167][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,168][5][INFO ][(null)] - deleting import tracker data: Symbol: IMPB, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: None 
+[2018-08-14 19:17:38,237][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,237][5][INFO ][(null)] - deleting import tracker data: Symbol: ION, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,314][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,314][5][INFO ][(null)] - deleting import tracker data: Symbol: IPO, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,405][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,406][5][INFO ][(null)] - deleting import tracker data: Symbol: IRC, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,477][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,478][5][INFO ][(null)] - deleting import tracker data: Symbol: IS, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,533][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,533][5][INFO ][(null)] - deleting import tracker data: Symbol: ISM, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,578][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,578][5][INFO ][(null)] - deleting import tracker data: Symbol: JFC, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,620][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,620][5][INFO ][(null)] - deleting import tracker data: Symbol: JGS, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,667][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,668][5][INFO ][(null)] - deleting import tracker data: Symbol: JOH, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: None 
+[2018-08-14 19:17:38,718][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,718][5][INFO ][(null)] - deleting import tracker data: Symbol: KEP, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: None 
+[2018-08-14 19:17:38,776][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,777][5][INFO ][(null)] - deleting import tracker data: Symbol: KPH, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: None 
+[2018-08-14 19:17:38,826][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,827][5][INFO ][(null)] - deleting import tracker data: Symbol: KPHB, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: None 
+[2018-08-14 19:17:38,868][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,868][5][INFO ][(null)] - deleting import tracker data: Symbol: LAND, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,915][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,915][5][INFO ][(null)] - deleting import tracker data: Symbol: LC, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:38,973][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:38,974][5][INFO ][(null)] - deleting import tracker data: Symbol: LCB, CreatedBy: , CreatedDate: 08/14/2018 19:17:38, Status: Success 
+[2018-08-14 19:17:39,076][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,076][5][INFO ][(null)] - deleting import tracker data: Symbol: LFM, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: None 
+[2018-08-14 19:17:39,120][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,120][5][INFO ][(null)] - deleting import tracker data: Symbol: LIB, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: None 
+[2018-08-14 19:17:39,171][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,172][5][INFO ][(null)] - deleting import tracker data: Symbol: LIHC, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,217][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,217][5][INFO ][(null)] - deleting import tracker data: Symbol: LMG, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,273][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,274][5][INFO ][(null)] - deleting import tracker data: Symbol: LOTO, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,329][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,330][5][INFO ][(null)] - deleting import tracker data: Symbol: LPZ, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,386][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,386][5][INFO ][(null)] - deleting import tracker data: Symbol: LR, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,423][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,423][5][INFO ][(null)] - deleting import tracker data: Symbol: LRI, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: None 
+[2018-08-14 19:17:39,467][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,467][5][INFO ][(null)] - deleting import tracker data: Symbol: LRP, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,576][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,576][5][INFO ][(null)] - deleting import tracker data: Symbol: LRW, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,627][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,627][5][INFO ][(null)] - deleting import tracker data: Symbol: LSC, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,664][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,664][5][INFO ][(null)] - deleting import tracker data: Symbol: LTG, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,722][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,722][5][INFO ][(null)] - deleting import tracker data: Symbol: MA, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,774][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,774][5][INFO ][(null)] - deleting import tracker data: Symbol: OV, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,822][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,822][5][INFO ][(null)] - deleting import tracker data: Symbol: PA, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,871][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,871][5][INFO ][(null)] - deleting import tracker data: Symbol: PAL, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,922][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,923][5][INFO ][(null)] - deleting import tracker data: Symbol: PAX, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:39,976][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:39,976][5][INFO ][(null)] - deleting import tracker data: Symbol: PBB, CreatedBy: , CreatedDate: 08/14/2018 19:17:39, Status: Success 
+[2018-08-14 19:17:40,073][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,073][5][INFO ][(null)] - deleting import tracker data: Symbol: PBC, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,119][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,119][5][INFO ][(null)] - deleting import tracker data: Symbol: PCKH, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,167][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,167][5][INFO ][(null)] - deleting import tracker data: Symbol: PFP, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,219][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,219][5][INFO ][(null)] - deleting import tracker data: Symbol: PGOLD, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,281][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,281][5][INFO ][(null)] - deleting import tracker data: Symbol: PHA, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,329][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,329][5][INFO ][(null)] - deleting import tracker data: Symbol: PHC, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,371][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,371][5][INFO ][(null)] - deleting import tracker data: Symbol: PHEN, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,426][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,426][5][INFO ][(null)] - deleting import tracker data: Symbol: PHES, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,481][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,481][5][INFO ][(null)] - deleting import tracker data: Symbol: PHN, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,581][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,582][5][INFO ][(null)] - deleting import tracker data: Symbol: PIP, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,634][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,635][5][INFO ][(null)] - deleting import tracker data: Symbol: PMPC, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,687][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,687][5][INFO ][(null)] - deleting import tracker data: Symbol: PMT, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,736][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,737][5][INFO ][(null)] - deleting import tracker data: Symbol: PNB, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,783][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,783][5][INFO ][(null)] - deleting import tracker data: Symbol: PNC, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,837][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,837][5][INFO ][(null)] - deleting import tracker data: Symbol: PNX, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,883][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,883][5][INFO ][(null)] - deleting import tracker data: Symbol: POPI, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:40,934][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,935][5][INFO ][(null)] - deleting import tracker data: Symbol: PORT, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: None 
+[2018-08-14 19:17:40,994][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:40,995][5][INFO ][(null)] - deleting import tracker data: Symbol: PPC, CreatedBy: , CreatedDate: 08/14/2018 19:17:40, Status: Success 
+[2018-08-14 19:17:41,071][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,072][5][INFO ][(null)] - deleting import tracker data: Symbol: PPREF, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: None 
+[2018-08-14 19:17:41,123][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,123][5][INFO ][(null)] - deleting import tracker data: Symbol: PRC, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,177][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,178][5][INFO ][(null)] - deleting import tracker data: Symbol: PRIM, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,238][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,239][5][INFO ][(null)] - deleting import tracker data: Symbol: PRMX, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,297][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,297][5][INFO ][(null)] - deleting import tracker data: Symbol: PSB, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: None 
+[2018-08-14 19:17:41,357][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,357][5][INFO ][(null)] - deleting import tracker data: Symbol: PSE, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,418][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,418][5][INFO ][(null)] - deleting import tracker data: Symbol: PTC, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: None 
+[2018-08-14 19:17:41,472][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,472][5][INFO ][(null)] - deleting import tracker data: Symbol: PTT, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: None 
+[2018-08-14 19:17:41,525][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,526][5][INFO ][(null)] - deleting import tracker data: Symbol: PX, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,589][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,589][5][INFO ][(null)] - deleting import tracker data: Symbol: PXP, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,645][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,645][5][INFO ][(null)] - deleting import tracker data: Symbol: RCB, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,702][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,703][5][INFO ][(null)] - deleting import tracker data: Symbol: RCI, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,771][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,771][5][INFO ][(null)] - deleting import tracker data: Symbol: REG, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,832][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,832][5][INFO ][(null)] - deleting import tracker data: Symbol: RFM, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,897][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,897][5][INFO ][(null)] - deleting import tracker data: Symbol: RLC, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:41,952][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:41,952][5][INFO ][(null)] - deleting import tracker data: Symbol: RLT, CreatedBy: , CreatedDate: 08/14/2018 19:17:41, Status: Success 
+[2018-08-14 19:17:42,014][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,014][5][INFO ][(null)] - deleting import tracker data: Symbol: ROCK, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,089][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,089][5][INFO ][(null)] - deleting import tracker data: Symbol: ROX, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,161][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,162][5][INFO ][(null)] - deleting import tracker data: Symbol: RPL, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: None 
+[2018-08-14 19:17:42,230][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,231][5][INFO ][(null)] - deleting import tracker data: Symbol: RRHI, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,301][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,301][5][INFO ][(null)] - deleting import tracker data: Symbol: RWM, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,359][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,359][5][INFO ][(null)] - deleting import tracker data: Symbol: SBS, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,433][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,433][5][INFO ][(null)] - deleting import tracker data: Symbol: SCC, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,514][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,515][5][INFO ][(null)] - deleting import tracker data: Symbol: SECB, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,604][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,604][5][INFO ][(null)] - deleting import tracker data: Symbol: YEHEY, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: None 
+[2018-08-14 19:17:42,678][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,678][5][INFO ][(null)] - deleting import tracker data: Symbol: ZHI, CreatedBy: , CreatedDate: 08/14/2018 19:17:42, Status: Success 
+[2018-08-14 19:17:42,760][5][INFO ][(null)] - operaton status code: OK 
+[2018-08-14 19:17:42,762][5][INFO ][(null)] - purge completed. 
+[2018-08-14 19:17:42,762][5][INFO ][(null)] - setting worker count 1 
+[2018-08-14 19:17:42,796][5][INFO ][(null)] - setting chromedriver.exe path  
+[2018-08-14 19:17:45,978][5][INFO ][(null)] - Thread id: 1 will processing the following symbols: PHEN 
+[2018-08-14 19:17:45,980][5][INFO ][(null)] - sleeping for 30 seconds to allow breathing for previously logged sessions 
+[2018-08-14 19:17:45,980][15][INFO ][(null)] - navigating to login page https://www.colfinancial.com/ape/Final2/home/HOME_NL_MAIN.asp?p=0 
+[2018-08-14 19:17:49,943][15][INFO ][(null)] - navigating to home page ape/FINAL2_STARTER/HOME/HOME.asp 
+[2018-08-14 19:17:54,771][15][INFO ][(null)] - checking if url https://ph.colfinancial.com/ape/final2_starter/home/home.asp contains ape/final2_starter/home/home.asp 
+[2018-08-14 19:17:54,830][15][INFO ][(null)] - initiating broker navigator 
+[2018-08-14 19:17:54,830][15][INFO ][(null)] - broker navigation in progress 
+[2018-08-14 19:17:55,448][15][INFO ][(null)] - quote tab click success 
+[2018-08-14 19:17:59,143][15][INFO ][(null)] - broker information sub tab click success 
+[2018-08-14 19:18:02,305][15][INFO ][(null)] - switching to main frame success 
+[2018-08-14 19:18:02,397][15][INFO ][(null)] - initiating table scraper 
+[2018-08-14 19:18:02,401][15][INFO ][(null)] - processing 1 out of 1 
+[2018-08-14 19:18:02,615][15][INFO ][PHEN] - setting stock name: PHEN success 
+[2018-08-14 19:18:05,064][15][INFO ][PHEN] - setting date to value success 
+[2018-08-14 19:18:05,194][15][INFO ][PHEN] - awoken from sleep. 
+[2018-08-14 19:18:05,258][15][INFO ][PHEN] - initiating transaction builder 
+[2018-08-14 19:18:10,158][15][INFO ][PHEN] - created brokerTransaction: Id: PHEN-2018Aug13, Symbol: PHEN, CreatedDate: 08/14/2018 19:18:10, UpdatedDate: , UpdatedBy: , CreatedBy: , Details: 9 
+[2018-08-14 19:18:10,159][15][INFO ][PHEN] - initiating transaction process 
+[2018-08-14 19:18:10,232][15][INFO ][PHEN] - converted json: {"_id":"PHEN-2018Aug13","symbol":"PHEN","createdDate":"2018-08-14T19:18:10.202Z","updatedDate":null,"updatedBy":null,"createdBy":null,"details":[{"code":"203","buyVolume":1580000.0,"buyAmount":1894230.0,"buyAverage":1.1989,"sellVolume":7000.0,"sellAmount":8400.0,"sellAverage":1.2000,"netAmount":1885830.0,"totalValue":1902630.0,"createdDate":"2018-08-14T19:18:10.230Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"209","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":1268000.0,"sellAmount":1521600.0,"sellAverage":1.2000,"netAmount":-1521600.0,"totalValue":1521600.0,"createdDate":"2018-08-14T19:18:10.231Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"112","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":850000.0,"sellAmount":1018800.0,"sellAverage":1.1986,"netAmount":-1018800.0,"totalValue":1018800.0,"createdDate":"2018-08-14T19:18:10.231Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"126","buyVolume":446000.0,"buyAmount":535200.0,"buyAverage":1.2000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":535200.0,"totalValue":535200.0,"createdDate":"2018-08-14T19:18:10.231Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"267","buyVolume":112000.0,"buyAmount":134320.0,"buyAverage":1.1993,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":134320.0,"totalValue":134320.0,"createdDate":"2018-08-14T19:18:10.232Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"224","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":100000.0,"sellAmount":119000.0,"sellAverage":1.1900,"netAmount":-119000.0,"totalValue":119000.0,"createdDate":"2018-08-14T19:18:10.232Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"110","buyVolume":45000.0,"buyAmount":53650.0,"buyAverage":1.1922,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":53650.0,"totalValue":53650.0,"createdDate":"2018-08-14T19:18:10.232Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"131","buyVolume":22000.0,"buyAmount":26400.0,"buyAverage":1.2000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":26400.0,"totalValue":26400.0,"createdDate":"2018-08-14T19:18:10.232Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"103","buyVolume":20000.0,"buyAmount":24000.0,"buyAverage":1.2000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":24000.0,"totalValue":24000.0,"createdDate":"2018-08-14T19:18:10.232Z","updatedDate":null,"updatedBy":null,"createdBy":null}]} 
+[2018-08-14 19:18:10,235][15][INFO ][PHEN] - performing bulk imports for broker transaction total: 1 
+[2018-08-14 19:18:10,305][15][INFO ][PHEN] - operaton reason: Created 
+[2018-08-14 19:18:10,305][15][INFO ][PHEN] - broker transactions for completed for symbol: PHEN 
+[2018-08-14 19:18:10,528][15][INFO ][PHEN] - quote tab click success 
+[2018-08-14 19:18:14,020][15][INFO ][PHEN] - broker information sub tab click success 
+[2018-08-14 19:18:16,038][5][INFO ][(null)] - setting chromedriver.exe path  
+[2018-08-14 19:18:17,328][15][INFO ][PHEN] - switching to main frame success 
+[2018-08-14 19:18:17,588][15][INFO ][PHEN] - adding imported broker transaction tracker: Symbol: PHEN, CreatedBy: , CreatedDate: 08/14/2018 19:18:17, Status: Success 
+[2018-08-14 19:18:17,874][15][INFO ][PHEN] - operaton status code: Created 
+[2018-08-14 19:18:17,876][15][INFO ][PHEN] - broker table scraping completed. 
+[2018-08-14 19:18:18,372][14][INFO ][(null)] - navigating to login page https://www.colfinancial.com/ape/Final2/home/HOME_NL_MAIN.asp?p=0 
+[2018-08-14 19:18:18,372][5][INFO ][(null)] - Thread id: 2 will processing the following symbols: PHEN 
+[2018-08-14 19:18:18,483][5][INFO ][(null)] - waiting for all complete, thread count: 2 
+[2018-08-14 19:18:21,540][14][INFO ][(null)] - navigating to home page ape/FINAL2_STARTER/HOME/HOME.asp 
+[2018-08-14 19:18:26,080][14][INFO ][(null)] - checking if url https://ph.colfinancial.com/ape/final2_starter/home/home.asp contains ape/final2_starter/home/home.asp 
+[2018-08-14 19:18:26,164][14][INFO ][(null)] - initiating broker navigator 
+[2018-08-14 19:18:26,164][14][INFO ][(null)] - broker navigation in progress 
+[2018-08-14 19:18:27,034][14][INFO ][(null)] - quote tab click success 
+[2018-08-14 19:18:30,717][14][INFO ][(null)] - broker information sub tab click success 
+[2018-08-14 19:18:33,861][14][INFO ][(null)] - switching to main frame success 
+[2018-08-14 19:18:33,979][14][INFO ][(null)] - initiating table scraper 
+[2018-08-14 19:18:33,979][14][INFO ][(null)] - processing 1 out of 1 
+[2018-08-14 19:18:34,165][14][INFO ][PHEN] - setting stock name: PHEN success 
+[2018-08-14 19:18:36,290][14][INFO ][PHEN] - setting date to value success 
+[2018-08-14 19:18:36,473][14][INFO ][PHEN] - awoken from sleep. 
+[2018-08-14 19:18:36,511][14][INFO ][PHEN] - initiating transaction builder 
+[2018-08-14 19:18:41,191][14][INFO ][PHEN] - created brokerTransaction: Id: PHEN-2018Aug13, Symbol: PHEN, CreatedDate: 08/14/2018 19:18:41, UpdatedDate: , UpdatedBy: , CreatedBy: , Details: 9 
+[2018-08-14 19:18:41,191][14][INFO ][PHEN] - initiating transaction process 
+[2018-08-14 19:18:41,192][14][INFO ][PHEN] - converted json: {"_id":"PHEN-2018Aug13","symbol":"PHEN","createdDate":"2018-08-14T19:18:41.191Z","updatedDate":null,"updatedBy":null,"createdBy":null,"details":[{"code":"203","buyVolume":1580000.0,"buyAmount":1894230.0,"buyAverage":1.1989,"sellVolume":7000.0,"sellAmount":8400.0,"sellAverage":1.2000,"netAmount":1885830.0,"totalValue":1902630.0,"createdDate":"2018-08-14T19:18:41.191Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"209","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":1268000.0,"sellAmount":1521600.0,"sellAverage":1.2000,"netAmount":-1521600.0,"totalValue":1521600.0,"createdDate":"2018-08-14T19:18:41.191Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"112","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":850000.0,"sellAmount":1018800.0,"sellAverage":1.1986,"netAmount":-1018800.0,"totalValue":1018800.0,"createdDate":"2018-08-14T19:18:41.191Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"126","buyVolume":446000.0,"buyAmount":535200.0,"buyAverage":1.2000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":535200.0,"totalValue":535200.0,"createdDate":"2018-08-14T19:18:41.191Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"267","buyVolume":112000.0,"buyAmount":134320.0,"buyAverage":1.1993,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":134320.0,"totalValue":134320.0,"createdDate":"2018-08-14T19:18:41.192Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"224","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":100000.0,"sellAmount":119000.0,"sellAverage":1.1900,"netAmount":-119000.0,"totalValue":119000.0,"createdDate":"2018-08-14T19:18:41.192Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"110","buyVolume":45000.0,"buyAmount":53650.0,"buyAverage":1.1922,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":53650.0,"totalValue":53650.0,"createdDate":"2018-08-14T19:18:41.192Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"131","buyVolume":22000.0,"buyAmount":26400.0,"buyAverage":1.2000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":26400.0,"totalValue":26400.0,"createdDate":"2018-08-14T19:18:41.192Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"103","buyVolume":20000.0,"buyAmount":24000.0,"buyAverage":1.2000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":24000.0,"totalValue":24000.0,"createdDate":"2018-08-14T19:18:41.192Z","updatedDate":null,"updatedBy":null,"createdBy":null}]} 
+[2018-08-14 19:18:41,192][14][INFO ][PHEN] - performing bulk imports for broker transaction total: 1 
+[2018-08-14 19:18:41,217][14][INFO ][PHEN] - operaton reason: Created 
+[2018-08-14 19:18:41,218][14][INFO ][PHEN] - broker transactions for completed for symbol: PHEN 
+[2018-08-14 19:18:41,417][14][INFO ][PHEN] - quote tab click success 
+[2018-08-14 19:18:44,870][14][INFO ][PHEN] - broker information sub tab click success 
+[2018-08-14 19:18:47,987][14][INFO ][PHEN] - switching to main frame success 
+[2018-08-14 19:18:48,092][14][INFO ][PHEN] - adding imported broker transaction tracker: Symbol: PHEN, CreatedBy: , CreatedDate: 08/14/2018 19:18:48, Status: Success 
+[2018-08-14 19:18:48,124][14][INFO ][PHEN] - operaton status code: Conflict 
+[2018-08-14 19:18:48,125][14][INFO ][PHEN] - broker table scraping completed. 
+[2018-08-14 19:18:48,126][5][INFO ][(null)] - performing webdriver cleanup 
+[2018-08-14 19:18:56,656][5][INFO ][(null)] - performing task cleanup 

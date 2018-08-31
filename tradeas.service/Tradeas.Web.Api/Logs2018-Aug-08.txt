@@ -1,0 +1,170 @@
+[2018-08-08 23:28:58,597][15][INFO ][(null)] - initiating extraction 
+[2018-08-08 23:28:58,738][15][INFO ][(null)] - retrieving import history for date: 2018-08-08 
+[2018-08-08 23:28:59,451][15][INFO ][(null)] - import history retrieved: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:28:59 
+[2018-08-08 23:28:59,453][15][INFO ][(null)] - purge completed. 
+[2018-08-08 23:28:59,459][15][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:28:59,471][15][INFO ][(null)] - adding new import history: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:28:59 
+[2018-08-08 23:28:59,992][15][INFO ][(null)] - add completed. reason Document update conflict. 
+[2018-08-08 23:29:03,199][15][INFO ][(null)] - imports count 0 
+[2018-08-08 23:29:03,200][15][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:29:03,231][15][INFO ][(null)] - batch size per worker 0 
+[2018-08-08 23:29:03,232][15][INFO ][(null)] - imports count 0 
+[2018-08-08 23:29:03,232][15][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:29:03,233][15][INFO ][(null)] - batch size per worker 0 
+[2018-08-08 23:29:03,233][15][INFO ][(null)] - waiting for all complete, thread count: 0 
+[2018-08-08 23:29:03,237][15][INFO ][(null)] - performing webdriver cleanup 
+[2018-08-08 23:29:24,576][15][INFO ][(null)] - initiating extraction 
+[2018-08-08 23:29:30,982][15][INFO ][(null)] - retrieving import history for date: 2018-08-08 
+[2018-08-08 23:29:31,414][15][INFO ][(null)] - import history retrieved: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:29:31 
+[2018-08-08 23:29:31,415][15][INFO ][(null)] - purge completed. 
+[2018-08-08 23:29:38,156][15][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:29:47,692][15][INFO ][(null)] - adding new import history: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:29:47 
+[2018-08-08 23:29:48,083][15][INFO ][(null)] - add completed. reason Document update conflict. 
+[2018-08-08 23:29:50,203][15][INFO ][(null)] - imports count 0 
+[2018-08-08 23:29:50,203][15][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:29:50,203][15][INFO ][(null)] - batch size per worker 0 
+[2018-08-08 23:31:31,882][5][INFO ][(null)] - initiating extraction 
+[2018-08-08 23:31:39,023][5][INFO ][(null)] - retrieving import history for date: 2018-08-08 
+[2018-08-08 23:31:39,316][5][INFO ][(null)] - import history retrieved: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:31:39 
+[2018-08-08 23:31:39,317][5][INFO ][(null)] - purge completed. 
+[2018-08-08 23:31:46,878][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:31:48,988][5][INFO ][(null)] - adding new import history: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:31:48 
+[2018-08-08 23:31:49,122][5][INFO ][(null)] - add completed. reason Document update conflict. 
+[2018-08-08 23:31:49,998][5][INFO ][(null)] - imports count 1 
+[2018-08-08 23:31:49,998][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:31:49,998][5][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:31:55,831][5][INFO ][(null)] - setting chromedriver.exe path  
+[2018-08-08 23:31:59,550][5][INFO ][(null)] - Thread id: 1 will processing the following symbols: ATN 
+[2018-08-08 23:31:59,553][15][INFO ][(null)] - navigating to login page https://www.colfinancial.com/ape/Final2/home/HOME_NL_MAIN.asp?p=0 
+[2018-08-08 23:32:07,133][5][INFO ][(null)] - imports count 1 
+[2018-08-08 23:32:07,154][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:32:07,154][5][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:32:07,158][5][INFO ][(null)] - waiting for all complete, thread count: 1 
+[2018-08-08 23:32:10,130][15][INFO ][(null)] - navigating to home page ape/FINAL2_STARTER/HOME/HOME.asp 
+[2018-08-08 23:32:16,549][15][INFO ][(null)] - checking if url https://ph.colfinancial.com/ape/final2_starter/home/home.asp contains ape/final2_starter/home/home.asp 
+[2018-08-08 23:32:16,579][15][INFO ][(null)] - initiating broker navigator 
+[2018-08-08 23:32:16,580][15][INFO ][(null)] - broker navigation in progress 
+[2018-08-08 23:32:17,115][15][INFO ][(null)] - quote tab click success 
+[2018-08-08 23:32:20,502][15][INFO ][(null)] - broker information sub tab click success 
+[2018-08-08 23:32:23,660][15][INFO ][(null)] - switching to main frame success 
+[2018-08-08 23:32:23,817][15][INFO ][(null)] - initiating table scraper 
+[2018-08-08 23:32:43,350][15][INFO ][(null)] - processing 1 out of 1 
+[2018-08-08 23:32:58,470][15][INFO ][ATN] - setting stock name: ATN success 
+[2018-08-08 23:33:02,475][15][INFO ][ATN] - setting date to value success 
+[2018-08-08 23:33:02,679][15][INFO ][ATN] - awoken from sleep. 
+[2018-08-08 23:33:58,240][5][INFO ][(null)] - initiating extraction 
+[2018-08-08 23:34:03,157][5][INFO ][(null)] - retrieving import history for date: 2018-08-08 
+[2018-08-08 23:34:03,462][5][INFO ][(null)] - import history retrieved: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:34:03 
+[2018-08-08 23:34:03,463][5][INFO ][(null)] - purge completed. 
+[2018-08-08 23:34:03,464][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:34:06,249][5][INFO ][(null)] - adding new import history: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:34:06 
+[2018-08-08 23:34:06,388][5][INFO ][(null)] - add completed. reason Document update conflict. 
+[2018-08-08 23:34:07,307][5][INFO ][(null)] - imports count 1 
+[2018-08-08 23:34:07,307][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:34:07,307][5][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:34:07,314][5][INFO ][(null)] - setting chromedriver.exe path  
+[2018-08-08 23:34:09,493][5][INFO ][(null)] - Thread id: 1 will processing the following symbols: ATN 
+[2018-08-08 23:34:09,495][4][INFO ][(null)] - navigating to login page https://www.colfinancial.com/ape/Final2/home/HOME_NL_MAIN.asp?p=0 
+[2018-08-08 23:34:11,405][5][INFO ][(null)] - imports count 1 
+[2018-08-08 23:34:11,438][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:34:11,439][5][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:34:11,439][5][INFO ][(null)] - waiting for all complete, thread count: 1 
+[2018-08-08 23:34:13,882][4][INFO ][(null)] - navigating to home page ape/FINAL2_STARTER/HOME/HOME.asp 
+[2018-08-08 23:34:18,584][4][INFO ][(null)] - checking if url https://ph.colfinancial.com/ape/final2_starter/home/home.asp contains ape/final2_starter/home/home.asp 
+[2018-08-08 23:34:18,819][4][INFO ][(null)] - initiating broker navigator 
+[2018-08-08 23:34:18,820][4][INFO ][(null)] - broker navigation in progress 
+[2018-08-08 23:34:20,428][4][INFO ][(null)] - quote tab click success 
+[2018-08-08 23:34:24,119][4][INFO ][(null)] - broker information sub tab click success 
+[2018-08-08 23:34:27,341][4][INFO ][(null)] - switching to main frame success 
+[2018-08-08 23:34:27,474][4][INFO ][(null)] - initiating table scraper 
+[2018-08-08 23:35:27,028][4][INFO ][(null)] - processing 1 out of 1 
+[2018-08-08 23:35:45,370][4][INFO ][ATN] - setting stock name: ATN success 
+[2018-08-08 23:35:47,012][4][INFO ][ATN] - setting date to value success 
+[2018-08-08 23:35:47,208][4][INFO ][ATN] - awoken from sleep. 
+[2018-08-08 23:35:47,277][4][INFO ][ATN] - initiating transaction builder 
+[2018-08-08 23:35:59,905][4][INFO ][ATN] - created brokerTransaction: Id: ATN-2018Aug08, Symbol: ATN, CreatedDate: 08/08/2018 23:35:59, UpdatedDate: , UpdatedBy: , CreatedBy: , Details: 20 
+[2018-08-08 23:35:59,905][4][INFO ][ATN] - initiating transaction process 
+[2018-08-08 23:35:59,977][4][INFO ][ATN] - converted json: {"_id":"ATN-2018Aug08","symbol":"ATN","createdDate":"2018-08-08T23:35:59.959Z","updatedDate":null,"updatedBy":null,"createdBy":null,"details":[{"code":"203","buyVolume":1132000.0,"buyAmount":795020.0,"buyAverage":0.7023,"sellVolume":3123000.0,"sellAmount":2190700.0,"sellAverage":0.7015,"netAmount":-1395680.0,"totalValue":2985720.0,"createdDate":"2018-08-08T23:35:59.976Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"125","buyVolume":2900000.0,"buyAmount":2042760.0,"buyAverage":0.7044,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":2042760.0,"totalValue":2042760.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"102","buyVolume":340000.0,"buyAmount":234600.0,"buyAverage":0.6900,"sellVolume":1556000.0,"sellAmount":1097320.0,"sellAverage":0.7052,"netAmount":-862720.0,"totalValue":1331920.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"235","buyVolume":787000.0,"buyAmount":550900.0,"buyAverage":0.7000,"sellVolume":205000.0,"sellAmount":145500.0,"sellAverage":0.7098,"netAmount":405400.0,"totalValue":696400.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"267","buyVolume":446000.0,"buyAmount":313680.0,"buyAverage":0.7033,"sellVolume":440000.0,"sellAmount":309000.0,"sellAverage":0.7023,"netAmount":4680.0,"totalValue":622680.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"233","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":515000.0,"sellAmount":360650.0,"sellAverage":0.7003,"netAmount":-360650.0,"totalValue":360650.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"259","buyVolume":500000.0,"buyAmount":350000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":350000.0,"totalValue":350000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"208","buyVolume":500000.0,"buyAmount":350000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":350000.0,"totalValue":350000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"112","buyVolume":15000.0,"buyAmount":10650.0,"buyAverage":0.7100,"sellVolume":466000.0,"sellAmount":329860.0,"sellAverage":0.7079,"netAmount":-319210.0,"totalValue":340510.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"103","buyVolume":160000.0,"buyAmount":112500.0,"buyAverage":0.7031,"sellVolume":245000.0,"sellAmount":171580.0,"sellAverage":0.7003,"netAmount":-59080.0,"totalValue":284080.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"131","buyVolume":216000.0,"buyAmount":154810.0,"buyAverage":0.7167,"sellVolume":165000.0,"sellAmount":115400.0,"sellAverage":0.6994,"netAmount":39410.0,"totalValue":270210.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"219","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":333000.0,"sellAmount":233100.0,"sellAverage":0.7000,"netAmount":-233100.0,"totalValue":233100.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"126","buyVolume":16000.0,"buyAmount":11220.0,"buyAverage":0.7013,"sellVolume":289000.0,"sellAmount":201130.0,"sellAverage":0.6960,"netAmount":-189910.0,"totalValue":212350.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"167","buyVolume":300000.0,"buyAmount":210000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":210000.0,"totalValue":210000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"368","buyVolume":200000.0,"buyAmount":140000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":140000.0,"totalValue":140000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"488","buyVolume":25000.0,"buyAmount":17500.0,"buyAverage":0.7000,"sellVolume":150000.0,"sellAmount":105000.0,"sellAverage":0.7000,"netAmount":-87500.0,"totalValue":122500.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"230","buyVolume":100000.0,"buyAmount":70000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":70000.0,"totalValue":70000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"111","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":100000.0,"sellAmount":70000.0,"sellAverage":0.7000,"netAmount":-70000.0,"totalValue":70000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"345","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":80000.0,"sellAmount":55700.0,"sellAverage":0.6963,"netAmount":-55700.0,"totalValue":55700.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"162","buyVolume":45000.0,"buyAmount":31650.0,"buyAverage":0.7033,"sellVolume":15000.0,"sellAmount":10350.0,"sellAverage":0.6900,"netAmount":21300.0,"totalValue":42000.0,"createdDate":"2018-08-08T23:35:59.977Z","updatedDate":null,"updatedBy":null,"createdBy":null}]} 
+[2018-08-08 23:35:59,981][4][INFO ][ATN] - performing bulk imports for broker transaction total: 1 
+[2018-08-08 23:36:00,047][4][INFO ][ATN] - operaton reason: Created 
+[2018-08-08 23:36:00,047][4][INFO ][ATN] - broker transactions for completed for symbol: ATN 
+[2018-08-08 23:36:00,282][4][INFO ][ATN] - quote tab click success 
+[2018-08-08 23:36:03,673][4][INFO ][ATN] - broker information sub tab click success 
+[2018-08-08 23:36:06,954][4][INFO ][ATN] - switching to main frame success 
+[2018-08-08 23:36:07,117][4][INFO ][ATN] - adding imported broker transaction tracker: Symbol: ATN, CreatedBy: , CreatedDate: 08/08/2018 23:36:07, Status: Success 
+[2018-08-08 23:36:07,222][4][INFO ][ATN] - operaton status code: Conflict 
+[2018-08-08 23:36:07,223][4][INFO ][ATN] - broker table scraping completed. 
+[2018-08-08 23:36:07,224][5][INFO ][(null)] - performing webdriver cleanup 
+[2018-08-08 23:39:48,542][21][INFO ][(null)] - initiating extraction 
+[2018-08-08 23:39:52,977][21][INFO ][(null)] - retrieving import history for date: 2018-08-08 
+[2018-08-08 23:39:53,060][21][INFO ][(null)] - import history retrieved: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:39:53 
+[2018-08-08 23:39:53,061][21][INFO ][(null)] - purge completed. 
+[2018-08-08 23:39:53,062][21][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:39:55,937][21][INFO ][(null)] - adding new import history: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:39:55 
+[2018-08-08 23:39:55,992][21][INFO ][(null)] - add completed. reason Document update conflict. 
+[2018-08-08 23:39:56,745][21][INFO ][(null)] - imports count 1 
+[2018-08-08 23:39:56,746][21][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:39:56,775][21][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:39:56,775][21][INFO ][(null)] - setting chromedriver.exe path  
+[2018-08-08 23:39:58,558][21][INFO ][(null)] - Thread id: 2 will processing the following symbols: ATN 
+[2018-08-08 23:39:58,558][30][INFO ][(null)] - navigating to login page https://www.colfinancial.com/ape/Final2/home/HOME_NL_MAIN.asp?p=0 
+[2018-08-08 23:39:58,559][21][INFO ][(null)] - imports count 1 
+[2018-08-08 23:39:58,586][21][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:39:58,601][21][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:39:58,602][21][INFO ][(null)] - waiting for all complete, thread count: 1 
+[2018-08-08 23:40:01,560][30][INFO ][(null)] - navigating to home page ape/FINAL2_STARTER/HOME/HOME.asp 
+[2018-08-08 23:40:07,051][30][INFO ][(null)] - checking if url https://ph.colfinancial.com/ape/final2_starter/home/home.asp contains ape/final2_starter/home/home.asp 
+[2018-08-08 23:40:07,135][30][INFO ][(null)] - initiating broker navigator 
+[2018-08-08 23:40:07,135][30][INFO ][(null)] - broker navigation in progress 
+[2018-08-08 23:40:08,134][30][INFO ][(null)] - quote tab click success 
+[2018-08-08 23:40:11,582][30][INFO ][(null)] - broker information sub tab click success 
+[2018-08-08 23:40:14,801][30][INFO ][(null)] - switching to main frame success 
+[2018-08-08 23:40:14,904][30][INFO ][(null)] - initiating table scraper 
+[2018-08-08 23:40:17,207][30][INFO ][(null)] - processing 1 out of 1 
+[2018-08-08 23:40:19,132][30][INFO ][ATN] - setting stock name: ATN success 
+[2018-08-08 23:40:23,301][30][INFO ][ATN] - setting date to value success 
+[2018-08-08 23:40:23,540][30][INFO ][ATN] - awoken from sleep. 
+[2018-08-08 23:40:23,613][30][INFO ][ATN] - initiating transaction builder 
+[2018-08-08 23:41:13,136][5][INFO ][(null)] - initiating extraction 
+[2018-08-08 23:41:17,070][5][INFO ][(null)] - retrieving import history for date: 2018-08-08 
+[2018-08-08 23:41:17,622][5][INFO ][(null)] - import history retrieved: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:41:17 
+[2018-08-08 23:41:17,623][5][INFO ][(null)] - purge completed. 
+[2018-08-08 23:41:17,624][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:41:17,628][5][INFO ][(null)] - adding new import history: Id: 2018-08-08, Type: broker-transactions, CreatedBy: broker.service, CreatedDate: 08/08/2018 23:41:17 
+[2018-08-08 23:41:17,809][5][INFO ][(null)] - add completed. reason Document update conflict. 
+[2018-08-08 23:41:18,902][5][INFO ][(null)] - imports count 1 
+[2018-08-08 23:41:18,902][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:41:18,902][5][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:41:18,910][5][INFO ][(null)] - setting chromedriver.exe path  
+[2018-08-08 23:41:21,421][5][INFO ][(null)] - Thread id: 1 will processing the following symbols: ATN 
+[2018-08-08 23:41:21,424][5][INFO ][(null)] - imports count 1 
+[2018-08-08 23:41:21,424][18][INFO ][(null)] - navigating to login page https://www.colfinancial.com/ape/Final2/home/HOME_NL_MAIN.asp?p=0 
+[2018-08-08 23:41:21,426][5][INFO ][(null)] - setting worker count 1 
+[2018-08-08 23:41:21,427][5][INFO ][(null)] - batch size per worker 1 
+[2018-08-08 23:41:21,428][5][INFO ][(null)] - waiting for all complete, thread count: 1 
+[2018-08-08 23:41:25,098][18][INFO ][(null)] - navigating to home page ape/FINAL2_STARTER/HOME/HOME.asp 
+[2018-08-08 23:41:29,298][18][INFO ][(null)] - checking if url https://ph.colfinancial.com/ape/final2_starter/home/home.asp contains ape/final2_starter/home/home.asp 
+[2018-08-08 23:41:29,360][18][INFO ][(null)] - initiating broker navigator 
+[2018-08-08 23:41:29,360][18][INFO ][(null)] - broker navigation in progress 
+[2018-08-08 23:41:31,542][18][INFO ][(null)] - quote tab click success 
+[2018-08-08 23:41:35,350][18][INFO ][(null)] - broker information sub tab click success 
+[2018-08-08 23:41:38,615][18][INFO ][(null)] - switching to main frame success 
+[2018-08-08 23:41:38,753][18][INFO ][(null)] - initiating table scraper 
+[2018-08-08 23:41:43,980][18][INFO ][(null)] - processing 1 out of 1 
+[2018-08-08 23:41:53,298][18][INFO ][ATN] - setting stock name: ATN success 
+[2018-08-08 23:41:54,984][18][INFO ][ATN] - setting date to value success 
+[2018-08-08 23:41:55,162][18][INFO ][ATN] - awoken from sleep. 
+[2018-08-08 23:41:55,231][18][INFO ][ATN] - initiating transaction builder 
+[2018-08-08 23:42:09,005][18][INFO ][ATN] - created brokerTransaction: Id: ATN-2018Aug08, Symbol: ATN, CreatedDate: 08/08/2018 23:42:09, UpdatedDate: , UpdatedBy: , CreatedBy: , Details: 20 
+[2018-08-08 23:42:09,005][18][INFO ][ATN] - initiating transaction process 
+[2018-08-08 23:43:54,580][18][INFO ][ATN] - converted json: {"_id":"ATN-2018Jul09","symbol":"ATN","createdDate":"2018-08-08T23:43:54.547Z","updatedDate":null,"updatedBy":null,"createdBy":null,"details":[{"code":"203","buyVolume":1132000.0,"buyAmount":795020.0,"buyAverage":0.7023,"sellVolume":3123000.0,"sellAmount":2190700.0,"sellAverage":0.7015,"netAmount":-1395680.0,"totalValue":2985720.0,"createdDate":"2018-08-08T23:43:54.578Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"125","buyVolume":2900000.0,"buyAmount":2042760.0,"buyAverage":0.7044,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":2042760.0,"totalValue":2042760.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"102","buyVolume":340000.0,"buyAmount":234600.0,"buyAverage":0.6900,"sellVolume":1556000.0,"sellAmount":1097320.0,"sellAverage":0.7052,"netAmount":-862720.0,"totalValue":1331920.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"235","buyVolume":787000.0,"buyAmount":550900.0,"buyAverage":0.7000,"sellVolume":205000.0,"sellAmount":145500.0,"sellAverage":0.7098,"netAmount":405400.0,"totalValue":696400.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"267","buyVolume":446000.0,"buyAmount":313680.0,"buyAverage":0.7033,"sellVolume":440000.0,"sellAmount":309000.0,"sellAverage":0.7023,"netAmount":4680.0,"totalValue":622680.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"233","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":515000.0,"sellAmount":360650.0,"sellAverage":0.7003,"netAmount":-360650.0,"totalValue":360650.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"259","buyVolume":500000.0,"buyAmount":350000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":350000.0,"totalValue":350000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"208","buyVolume":500000.0,"buyAmount":350000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":350000.0,"totalValue":350000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"112","buyVolume":15000.0,"buyAmount":10650.0,"buyAverage":0.7100,"sellVolume":466000.0,"sellAmount":329860.0,"sellAverage":0.7079,"netAmount":-319210.0,"totalValue":340510.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"103","buyVolume":160000.0,"buyAmount":112500.0,"buyAverage":0.7031,"sellVolume":245000.0,"sellAmount":171580.0,"sellAverage":0.7003,"netAmount":-59080.0,"totalValue":284080.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"131","buyVolume":216000.0,"buyAmount":154810.0,"buyAverage":0.7167,"sellVolume":165000.0,"sellAmount":115400.0,"sellAverage":0.6994,"netAmount":39410.0,"totalValue":270210.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"219","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":333000.0,"sellAmount":233100.0,"sellAverage":0.7000,"netAmount":-233100.0,"totalValue":233100.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"126","buyVolume":16000.0,"buyAmount":11220.0,"buyAverage":0.7013,"sellVolume":289000.0,"sellAmount":201130.0,"sellAverage":0.6960,"netAmount":-189910.0,"totalValue":212350.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"167","buyVolume":300000.0,"buyAmount":210000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":210000.0,"totalValue":210000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"368","buyVolume":200000.0,"buyAmount":140000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":140000.0,"totalValue":140000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"488","buyVolume":25000.0,"buyAmount":17500.0,"buyAverage":0.7000,"sellVolume":150000.0,"sellAmount":105000.0,"sellAverage":0.7000,"netAmount":-87500.0,"totalValue":122500.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"230","buyVolume":100000.0,"buyAmount":70000.0,"buyAverage":0.7000,"sellVolume":0.0,"sellAmount":0.0,"sellAverage":0.0000,"netAmount":70000.0,"totalValue":70000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"111","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":100000.0,"sellAmount":70000.0,"sellAverage":0.7000,"netAmount":-70000.0,"totalValue":70000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"345","buyVolume":0.0,"buyAmount":0.0,"buyAverage":0.0000,"sellVolume":80000.0,"sellAmount":55700.0,"sellAverage":0.6963,"netAmount":-55700.0,"totalValue":55700.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null},{"code":"162","buyVolume":45000.0,"buyAmount":31650.0,"buyAverage":0.7033,"sellVolume":15000.0,"sellAmount":10350.0,"sellAverage":0.6900,"netAmount":21300.0,"totalValue":42000.0,"createdDate":"2018-08-08T23:43:54.579Z","updatedDate":null,"updatedBy":null,"createdBy":null}]} 
+[2018-08-08 23:43:54,583][18][INFO ][ATN] - performing bulk imports for broker transaction total: 1 
+[2018-08-08 23:43:54,728][18][INFO ][ATN] - operaton reason: Created 
+[2018-08-08 23:43:54,729][18][INFO ][ATN] - broker transactions for completed for symbol: ATN 
+[2018-08-08 23:43:55,031][18][INFO ][ATN] - quote tab click success 
+[2018-08-08 23:43:58,646][18][INFO ][ATN] - broker information sub tab click success 
+[2018-08-08 23:44:01,943][18][INFO ][ATN] - switching to main frame success 
+[2018-08-08 23:44:02,225][18][INFO ][ATN] - adding imported broker transaction tracker: Symbol: ATN, CreatedBy: , CreatedDate: 08/08/2018 23:44:02, Status: Success 
+[2018-08-08 23:44:02,310][18][INFO ][ATN] - operaton status code: Conflict 
+[2018-08-08 23:44:02,312][18][INFO ][ATN] - broker table scraping completed. 
+[2018-08-08 23:44:02,314][5][INFO ][(null)] - performing webdriver cleanup 
