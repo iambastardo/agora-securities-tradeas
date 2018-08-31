@@ -1,0 +1,6 @@
+to optimize the site
+
+- all node_modules css should use scss
+- review scss and remove unwated
+- remove all jquery codes
+    - convert calendar jquery codes

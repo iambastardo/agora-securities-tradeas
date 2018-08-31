@@ -1,0 +1,25 @@
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.home-component-canvas-1 {
+  background-image: url("../../assets/img/home-canvas-1.jpg");
+}
+
+.home-component-canvas-2 {
+  background-image: url("../../assets/img/home-canvas-2.jpg");
+}
+
+.home-component-canvas-3 {
+  background-image: url("../../assets/img/home-canvas-3.jpg");
+}
+
+.home-component-goal {
+  content: url("../../assets/img/goal.jpg");
+}

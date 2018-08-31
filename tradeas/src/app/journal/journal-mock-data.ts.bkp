@@ -1,0 +1,122 @@
+import { Idea } from './idea/idea';
+import { Star } from './idea/star';
+import { Position } from './idea/position';
+import * as moment from "moment";
+
+export class JournalMockData {
+    static IDEAS: Idea[] = [
+        new Idea({
+            id: '2GOApril2017120000',
+            symbol: '2GO',
+            type: 'TF', 
+            chart: 'https://storage.investagrams.com/files/Chart/tv/2017/07/16/20170716-093124-gThWEagL.jpg',
+            entryDate: moment(new Date(2017, 4, 20)),
+            stars: [new Star({id: 0}), new Star({id: 1}), new Star({id: 2})]
+        }),
+        new Idea({
+            id: 'MACJuly162007120000',
+            symbol: 'MAC', 
+            type: 'TF',
+            chart: 'https://storage.investagrams.com/files/Chart/tv/2017/07/16/20170716-094405-EmwJ8Bqn.jpg',
+            entryDate: moment(new Date(2017, 7, 16)), 
+            stars: [new Star({id: 0}), new Star({id: 1}), new Star({id: 2})]
+        }),
+        new Idea({
+            id: 'PXPDecember112007120000',
+            symbol: 'PXP', 
+            type: 'ABO', 
+            chart: 'https://storage.investagrams.com/files/Chart/tv/2017/11/11/20171111-152441-4iqNjOKc.jpg', 
+            entryDate: moment(new Date(2017, 11, 11)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'GSMIDecember112007120000',
+            symbol: 'GSMI', 
+            type: 'ABO', 
+            chart: 'https://storage.investagrams.com/files/Chart/tv/2017/11/11/20171111-153535-qFtiU8s1.jpg', 
+            entryDate: moment(new Date(2017, 11, 11)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'NOWNovember272007120000',
+            symbol: 'NOW', 
+            type: 'TF', 
+            chart: 'https://storage.investagrams.com/files/Chart/tv/2017/11/27/20171127-231832-awLKaJV9.jpg', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'NOWNovember272007120000',
+            symbol: 'NOW', 
+            type: 'TF', 
+            chart: 'https://storage.investagrams.com/files/Chart/tv/2017/11/27/20171127-231832-awLKaJV9.jpg', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'STINovember272007120000',
+            symbol: 'STI', 
+            type: 'TF', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'ROCKNovember272007120000',
+            symbol: 'ROCK', 
+            type: 'TF', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'PFNovember272007120000',
+            symbol: 'PF', 
+            type: 'TF', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'MRCNovember272007120000',
+            symbol: 'MRC', 
+            type: 'TF', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            symbol: 'MJC', 
+            type: 'Tsupit', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 11, 5)),
+            stars: [new Star({id: 0})]
+        }),
+        new Idea({
+            id: 'MJC40000',
+            symbol: 'MJC', 
+            type: 'Tsupit', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 11, 5)),
+            stars: [new Star({id: 0})],
+            // positions: [
+            //     new Position({shares: 2000, buyPrice: 6.11, entryDate: moment(new Date(2017, 11, 5))}),
+            //     new Position({shares: 2000, buyPrice: 6.06, entryDate: moment(new Date(2017, 11, 5))})
+            // ],
+            isSelected: true
+        }),                
+        new Idea({
+            id: 'TEST5000003831',
+            symbol: 'TEST', 
+            type: 'TF', 
+            chart: '', 
+            entryDate: moment(new Date(2017, 10, 27)),
+            stars: [new Star({id: 0})],
+            // positions: [
+            //     new Position({shares: 35000, buyPrice: .35, entryDate: moment(new Date(2017, 11, 3))}),
+            //     new Position({shares: 15000, buyPrice: .37, entryDate: moment(new Date(2017, 11, 3))})
+            // ],
+            isSelected: true
+        }),
+    ];
+}

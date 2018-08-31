@@ -1,0 +1,50 @@
+{
+    "index": "/index.html",
+    "assetGroups": [
+        {
+            "name": "app",
+            "installMode": "prefetch",
+            "resources": {
+                "files": [
+                    "/favicon.ico",
+                    "/index.html",
+                    "/*.css",
+                    "/*.js"
+                ]
+            }
+        }, {
+            "name": "assets",
+            "installMode": "lazy",
+            "updateMode": "prefetch",
+            "resources": {
+                "files": [
+                    "/assets/**"
+                ]
+            }
+        }
+    ],
+    "dataGroups": [
+        {
+            "name": "brokers",
+            "urls": [
+                "http://tradeasdb.southeastasia.cloudapp.azure.com:5984/brokers/**"
+            ],
+            "cacheConfig": {
+                "maxSize": 1000,
+                "maxAge": "3d",
+                "timeout": "1m",
+                "strategy": "performance"
+            }
+        },
+        {
+            "name": "securities",
+            "urls": ["http://tradeasdb.southeastasia.cloudapp.azure.com:5984/securities/**"],
+            "cacheConfig": {
+                "maxSize": 1000,
+                "maxAge": "3d",
+                "timeout": "1m",
+                "strategy": "performance"
+            }
+        }
+    ]
+}
